@@ -1,4 +1,4 @@
-# TASK03-CSS-PROJS--6
+# TASK-03-CSS-PROJS
 CSS PROJECT-3:
 
 # Team Profile Card LIST
