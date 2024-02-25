@@ -1,4 +1,4 @@
-# TASK02-CSS-PROJS-5
+# TASK-02-CSS-PROJS
 CSS PROJECT-2:
 
 # Sticky Navigation Bar Project
